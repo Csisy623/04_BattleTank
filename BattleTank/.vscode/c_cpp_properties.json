@@ -4,6 +4,7 @@
             "name": "UnrealEngine",
             "includePath": [
                 "C:\\Program Files\\UE_4.24\\Engine\\Source",
+                "C:\\Users\\Csisy\\Documents\\GitRepo\\Battale_Tank\\BattleTank\\Source\\BattleTank\\Private",
                 "C:\\Program Files\\UE_4.24\\Engine\\Intermediate\\Build\\Win64\\UE4Editor\\Inc\\UMG",
                 "C:\\Program Files\\UE_4.24\\Engine\\Source\\Runtime",
                 "C:\\Program Files\\UE_4.24\\Engine\\Source\\Runtime\\UMG\\Public",
@@ -502,6 +503,7 @@
                 "C:\\Program Files\\UE_4.24\\Engine\\Source\\Runtime\\PropertyPath",
                 "C:\\Users\\Csisy\\Documents\\GitRepo\\Battale_Tank\\BattleTank\\Intermediate\\Build\\Win64\\UE4Editor\\Inc\\BattleTank",
                 "C:\\Users\\Csisy\\Documents\\GitRepo\\Battale_Tank\\BattleTank\\Source",
+                "C:\\Users\\Csisy\\Documents\\GitRepo\\Battale_Tank\\BattleTank\\Source\\BattleTank\\Public",
                 "C:\\Users\\Csisy\\Documents\\GitRepo\\Battale_Tank\\BattleTank\\Source\\BattleTank",
                 "C:\\Program Files\\UE_4.24\\Engine\\Source\\ThirdParty\\PhysX3\\PxShared\\include",
                 "C:\\Program Files\\UE_4.24\\Engine\\Source\\ThirdParty\\PhysX3\\PxShared\\include\\cudamanager",
